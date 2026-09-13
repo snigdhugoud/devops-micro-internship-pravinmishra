@@ -58,9 +58,7 @@ Write a short explanation (**100–150 words**) that includes:
 💡 **Tip:** You may use ChatGPT (as demonstrated in Task 1) to refine your explanation.
 
 ## Answer
-
-Add your answer here...
-
+Packet Switching is a method of sending data across a network by breaking it into small units called packets. Each packet can travel through different routes and is reassembled at the destination. An IP Address is a unique numerical address assigned to a device on a network, allowing data to be delivered to the correct destination. TCP/IP (Transmission Control Protocol/Internet Protocol) is the main set of communication protocols used on the Internet. TCP ensures that packets are delivered reliably and in the correct order, while IP handles addressing and routing. HTTP (Hypertext Transfer Protocol) is used to transfer web pages and other resources between a browser and a web server. HTTPS is the secure version of HTTP, using encryption to protect data exchanged between the user and the server.
 ---
 
 # 🏗️ Task 3: Application Architecture & Stack
