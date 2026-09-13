@@ -60,6 +60,20 @@ Write a short explanation (**100–150 words**) that includes:
 ## Answer
 
 Add your answer here...
+Networking Concepts Explanation
+
+
+
+Packet Switching is a method of sending data over a network by dividing it into small units called packets. These packets may travel through different routes and are reassembled at the destination.
+
+An IP Address is a unique numerical address assigned to a device on a network. It helps identify the device and ensures that data reaches the correct destination.
+
+TCP/IP is a set of communication protocols used on the internet. TCP breaks data into packets and ensures reliable delivery, while IP handles addressing and routing.
+
+HTTP/HTTPS are protocols used to transfer web pages and other resources between browsers and web servers. HTTP sends data without encryption, while HTTPS uses encryption to protect information, making it safer for activities such as online banking and shopping.
+
+
+
 
 ---
 
