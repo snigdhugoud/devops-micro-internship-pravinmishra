@@ -234,7 +234,7 @@ Choose books that improve:
 8 . Ikigai — Héctor García and Francesc Miralles
 9. The 5 AM Club — Robin Sharma
 10.Leaders Eat Last — Simon Sinek
----
+
 
 # Assignment 6. What are the things you will measure regularly in your life and career?
 
