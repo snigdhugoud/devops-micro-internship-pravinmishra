@@ -197,7 +197,12 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+**Yes**
+
+**What emotion did you feel?**
+
+I have taken shortcuts at times instead of doing something properly. At first, I felt relieved because I finished the task quickly. Later, I felt guilty and stressed because I knew I had not given my best effort. I also worried that someone might notice my mistake. This experience taught me that shortcuts may save time temporarily, but they can reduce confidence and create unnecessary stress. Since then, I have tried to be more honest, responsible, and consistent in my work.
+
 
 ---
 
