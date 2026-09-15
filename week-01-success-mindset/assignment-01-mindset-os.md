@@ -355,15 +355,15 @@ Examples:
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that I can improve myself when I follow a proper routine and stay consistent. Small daily efforts can help me achieve bigger goals over time.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is getting distracted by my phone and sometimes delaying important tasks. I need to improve my time management and avoid procrastination.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will spend 1 hour every day from 7:00 PM to 8:00 PM on focused learning and DMI work without using social media or unnecessary phone apps.
 
 ### LinkedIn Post
 
