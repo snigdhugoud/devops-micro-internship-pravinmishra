@@ -261,17 +261,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-Learning hours and new skills
-Technical skills and knowledge
-Projects completed and documented
-Certifications and achievements
-Health and energy levels
-Sleep and physical activity
-Time management and focus
-Daily productivity
-Personal spending and savings
-Career growth and opportunities
-
+* Learning hours and new skills
+* Technical skills and knowledge
+* Projects completed and documented
+* Certifications and achievements
+* Health and energy levels
+* Sleep and physical activity
+* Time management and focus
+* personal spending and savings
+* career growth and opportunities
+* Daily productivity
 
 
 # Assignment 7. Brain Dump + 5-Month System Plan
