@@ -158,22 +158,15 @@ Hashtags:
 #DMIByPravinMishra #AgenticAI #DevOps
 
 ## Your Article
-## What I Believe About Success
-
-I believe that a college degree alone is not enough to build a successful career. This is something I strongly believe even though many people around me consider getting good marks, completing a degree, and getting a job as the main definition of success.
-
-For me, education is only the foundation. What matters more is what a person can actually build, solve, and contribute using their knowledge. A student can score excellent marks and still struggle when faced with real-world problems if they have never worked on practical projects or developed useful skills.
-
-I believe continuous learning is more valuable than depending only on what we learn in college. Technology changes quickly, especially in areas like Artificial Intelligence, Machine Learning, Cloud Computing, Cybersecurity, and DevOps. The skills that are valuable today may change in the future. Because of this, I believe the ability to learn, adapt, and apply new knowledge is extremely important.
-
-I also believe that failure is not the opposite of success. Failure is part of learning. When a project does not work, a coding error appears, or something takes longer than expected, the experience can teach lessons that cannot always be learned from textbooks.
-
-Another belief I have is that consistency is more powerful than motivation. Motivation can disappear, but discipline helps a person continue working even when they are not feeling motivated. Small improvements made every day can eventually create significant results.
-
-As a BTech AIML student, I have started understanding this through my own learning journey. Working on projects, learning SQL, programming, AI concepts, and now exploring DevOps has shown me that practical knowledge requires continuous effort.
-
-I believe success is not simply about getting a degree or a high-paying job. It is about becoming capable, adaptable, disciplined, and useful enough to create real value. That belief may not be shared by everyone around me, but it is the mindset I want to follow.
-
+From Student to DevOps Engineer: The Journey of Snigdhu Goud
+Hyderabad, India — 2031
+Five years ago, Snigdhu Goud was a student beginning a journey into technology. By 2031, Snigdhu had built a successful career as a DevOps Engineer through consistent learning, practical experience, and discipline.
+Snigdhu built and deployed projects using Git, GitHub, Linux, Docker, CI/CD, cloud technologies, and automation. These projects were documented on GitHub and became strong proof of practical skills. Snigdhu also created a professional portfolio and published technical blogs to share knowledge with others.
+During the career journey, Snigdhu earned relevant certifications, contributed to team projects, and developed strong problem-solving, communication, teamwork, and leadership skills. Snigdhu also supported beginners in learning technology and contributed to the developer community.
+The journey showed that success was not achieved overnight. It was built through small improvements, regular practice, and continuous learning.
+By 2031, Snigdhu had established a strong professional identity, built a valuable portfolio, contributed to real-world projects, and continued learning new technologies.
+Snigdhu’s journey proved that discipline, consistency, and practical learning could turn a student into a successful technology professional.
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://lnkd.in/dnkV8Xm8 **· Start your DevOps journey: https://lnkd.in/dYkeEDDn
 ### Public Link
 
 Paste your link here:
