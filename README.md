@@ -70,8 +70,8 @@ This is not a course. It is an internship-style program — real deployments, re
 -- Week 00 → Internet & Networking Basics --
 -- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) --
 
-<!-- Week 01 → Success Mindset -->
-<!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
+-- Week 01 → Success Mindset --
+-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) --
 
 <!-- Week 02 → Agentic AI with Claude Code -->
 <!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
@@ -132,7 +132,7 @@ This is not a course. It is an internship-style program — real deployments, re
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics |  ✅ Completed | ✅ Solved
 | https://lnkd.in/p/dCHWSK9Q | https://medium.com/@snigdhugoud/devops-micro-internship-week-0-internet-networking-7fcee6d1cd7f?postPublishedType=initial|
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/sai-snehitha-goud-a22a49434_dmibypravinmishra-agenticai-devops-activity-7505915767302021120-XsSK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3J_noBLo2QsuZ1fas3sl6L8i2eH1Tib40| https://medium.com/@snigdhugoud/devops-micro-internship-week-1-success-mindset-1f7f252baac8?sharedUserId=snigdhugoud |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
