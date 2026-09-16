@@ -375,13 +375,15 @@ I will spend 1 hour every day from 7:00 PM to 8:00 PM on focused learning and DM
 
 Paste your LinkedIn post link here:
 
-https://www.linkedin.com/posts/sai-snehitha-goud-a22a49434_dmi-devops-micro-internship-with-agentic-activity-7505565584181411840-4Pww?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3J_noBLo2QsuZ1fas3sl6L8i2eH1Tib40
+https://www.linkedin.com/posts/sai-snehitha-goud-a22a49434_dmibypravinmishra-agenticai-devops-activity-7505915767302021120-XsSK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3J_noBLo2QsuZ1fas3sl6L8i2eH1Tib40
 
 ---
 
 ## 10. Proof of Work
 
-- https://medium.com/@snigdhugoud/devops-micro-internship-week-1-success-mindset-1f7f252baac8?postPublishedType=initial
+* linkedin post url : https://www.linkedin.com/posts/sai-snehitha-goud-a22a49434_dmibypravinmishra-agenticai-devops-activity-7505915767302021120-XsSK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3J_noBLo2QsuZ1fas3sl6L8i2eH1Tib40
+
+* medium/blog url : https://medium.com/@snigdhugoud/devops-micro-internship-week-1-success-mindset-1f7f252baac8?postPublishedType=initial
 ---
 
 ## 📌 About DMI & CloudAdvisory
