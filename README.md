@@ -130,7 +130,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics |  ✅ Completed | ✅ Solved|https://www.linkedin.com/posts/sai-snehitha-goud-a22a49434_dmi-devops-micro-internship-with-agentic-activity-7505499838709694464-bxlE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3J_noBLo2QsuZ1fas3sl6L8i2eH1Tib40 | https://medium.com/@snigdhugoud/devops-micro-internship-week-0-internet-networking-7fcee6d1cd7f?postPublishedType=initial|
+| 00 | Internet & Networking Basics |  ✅ Completed | ✅ Solved|https://www.linkedin.com/posts/sai-snehitha-goud-a22a49434_dmi-devops-micro-internship-with-agentic-activity-7505499838709694464-bxlE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3J_noBLo2QsuZ1fas3sl6L8i2eH1Tib40 | https://medium.com/@snigdhugoud/my-dmi-week-0-journey-understanding-internet-networking-898872af359c?postPublishedType=initial|
 | 01 | Success Mindset | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/sai-snehitha-goud-a22a49434_dmibypravinmishra-agenticai-devops-activity-7505915767302021120-XsSK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3J_noBLo2QsuZ1fas3sl6L8i2eH1Tib40| https://medium.com/@snigdhugoud/devops-micro-internship-week-1-success-mindset-1f7f252baac8?sharedUserId=snigdhugoud |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
