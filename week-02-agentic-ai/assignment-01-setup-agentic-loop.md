@@ -106,12 +106,12 @@ https://github.com/snigdhugoud/Ultimate-Agentic-DevOps-with-Claude-Code
 
 # Completion Checklist
 
-- [ ] Claude Code CLI installed successfully
-- [ ] Claude Code authenticated successfully
-- [ ] Repository forked successfully
-- [ ] Repository cloned and opened in VS Code
-- [ ] All required screenshots added
-- [ ] GitHub repository URL provided
+- [ ☑️] Claude Code CLI installed successfully
+- [☑️ ] Claude Code authenticated successfully
+- [☑️ ] Repository forked successfully
+- [ ☑️] Repository cloned and opened in VS Code
+- [ ☑️] All required screenshots added
+- [☑️ ] GitHub repository URL provided
 
 ---
 
