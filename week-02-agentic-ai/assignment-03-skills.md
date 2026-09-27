@@ -108,7 +108,7 @@ https://lnkd.in/p/dpK2FkTB
 
 # Completion Checklist
 
-- [ ] `.claude/skills/` folder created with all 4 skill folders
+- [completed] `.claude/skills/` folder created with all 4 skill folders
 - [ ] All skill files placed correctly
 - [ ] `tf-plan/SKILL.md` shows correct `allowed-tools` restrictions
 - [ ] `/scaffold-terraform` executed successfully
