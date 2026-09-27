@@ -35,7 +35,7 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
+The cost optimizer uses Haiku instead of Sonnet because cost optimization focuses mainly on analyzing resource usage, identifying unnecessary expenses, and suggesting simple improvements. Haiku is faster and less expensive while still being capable of handling these tasks. Using Haiku helps reduce AI usage costs without needing the more advanced reasoning capabilities of Sonnet for routine cost-analysis work.
 
 ---
 
