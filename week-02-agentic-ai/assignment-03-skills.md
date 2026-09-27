@@ -63,7 +63,8 @@ Add your screenshot here.
 
 #### Screenshot 5 — VS Code sidebar showing the `terraform/` folder with all generated files inside
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/40456a37-480b-4ead-b885-37d4b5ba4557" />
+
 
 ---
 
