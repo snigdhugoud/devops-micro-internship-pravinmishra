@@ -41,7 +41,7 @@ The cost optimizer uses Haiku instead of Sonnet because cost optimization focuse
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
+The security auditor does not have the Write tool because it is designed to inspect and analyze files for security issues, not modify them. Keeping it read-only prevents accidental changes to the project and makes the security audit safer and more controlled
 
 ---
 
