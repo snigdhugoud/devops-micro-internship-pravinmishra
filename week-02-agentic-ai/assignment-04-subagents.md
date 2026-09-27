@@ -62,7 +62,8 @@ The tf-writer uses inherit so it follows the model selected in the main Claude C
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/edbe29d7-6f08-4f56-b64a-7e1c4020020c" />
+
 
 ---
 
