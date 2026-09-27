@@ -47,7 +47,7 @@ The security auditor does not have the Write tool because it is designed to insp
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
+The tf-writer uses inherit so it follows the model selected in the main Claude Code session. This gives the agent flexibility and avoids requiring a specific model, allowing the appropriate model to be used for the Terraform task.
 
 ---
 
