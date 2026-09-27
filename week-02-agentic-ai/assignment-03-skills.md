@@ -102,7 +102,7 @@ https://github.com/snigdhugoud/devops-micro-internship-pravinmishra
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://lnkd.in/p/dwi4ic6U
 ---
 
 # Completion Checklist
