@@ -55,7 +55,8 @@ The tf-writer uses inherit so it follows the model selected in the main Claude C
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/8c7263b1-c858-403b-ac74-95eab368f8af" />
+
 
 ---
 
