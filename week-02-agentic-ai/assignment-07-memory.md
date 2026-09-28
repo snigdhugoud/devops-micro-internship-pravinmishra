@@ -42,7 +42,8 @@ Teach Claude three specific facts about the project and instruct it to save them
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/54df230f-c032-4326-bdc1-bc93478b26df" />
+
 
 ---
 
