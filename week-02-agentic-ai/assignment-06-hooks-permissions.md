@@ -107,6 +107,7 @@ Prove the tool-level hook works by asking Claude to execute a dangerous Bash com
 ### Evidence
 
 #### Screenshot 7 — PreToolUse hook blocking terraform destroy
+<img width="1920" height="1080" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/4dd87267-6bab-4127-b29c-a243e18b5520" />
 
 ---
 
