@@ -20,7 +20,8 @@ Discover exactly where Claude Code stores memory for this project.
 
 #### Screenshot 1 — Memory file path shown by Claude
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/007863b3-c656-4e52-9882-d82a59f137b4" />
+
 
 ---
 
