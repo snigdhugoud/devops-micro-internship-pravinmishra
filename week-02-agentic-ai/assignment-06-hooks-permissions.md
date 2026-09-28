@@ -20,7 +20,8 @@ Create the `.claude` directory structure required for team-level Claude Code con
 
 #### Screenshot 1 — `.claude` folder structure visible in VS Code Explorer
 
-Add your screenshot here.
+<img width="1110" height="984" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/8c0ba23f-4c74-4844-bb55-2bbae5e62b14" />
+
 
 ---
 
