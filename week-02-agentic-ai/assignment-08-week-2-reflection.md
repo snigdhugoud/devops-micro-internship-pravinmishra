@@ -108,7 +108,7 @@ Your post must include:
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+https://lnkd.in/p/daBJJ8bs
 ```
 
 ---
