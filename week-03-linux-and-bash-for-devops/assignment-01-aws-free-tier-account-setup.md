@@ -29,13 +29,18 @@ Using the Free Tier helps me learn and practice while keeping costs low.
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+AWS Free Tier provides limited usage of selected AWS services at no cost, within specified limits.
+It helps beginners learn and practice AWS without paying for normal usage within those limits.
+The duration depends on the service and the account’s eligibility.
+Some offers are available for 12 months, while some services have ongoing free usage limits.
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+*Amazon S3: 5 GB of Standard storage per month under the traditional 12-month Free Tier offer.
+*Amazon EC2: Up to 750 hours per month of eligible instance usage for 12 months under the traditional Free Tier offer.
+*AWS Lambda: 1 million requests and 400,000 GB-seconds of compute time per month under the ongoing free tier.
 
 ---
 
