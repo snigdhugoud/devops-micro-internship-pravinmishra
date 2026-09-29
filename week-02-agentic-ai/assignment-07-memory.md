@@ -109,8 +109,8 @@ https://lnkd.in/p/dUz35KtN
 
 Paste your forked repository URL here:
 
-`Add your URL here`
-
+https://github.com/snigdhugoud/Ultimate-Agentic-DevOps-with-Claude-Code
+https://github.com/snigdhugoud/devops-micro-internship-pravinmishra
 ---
 
 # Completion Checklist
