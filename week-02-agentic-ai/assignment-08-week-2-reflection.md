@@ -97,7 +97,9 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/0e0f7250-232c-45d3-b57b-9aa742cd0311" />
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/ec239a48-6831-43ca-a525-e4fa67afd45b" />
+
 
 ---
 
