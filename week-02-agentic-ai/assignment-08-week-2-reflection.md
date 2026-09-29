@@ -59,7 +59,7 @@ You can publish your blog on:
 
 Blog Link:
 
-`Add your URL here`
+https://medium.com/@snigdhugoud/reflection-week-2-8d2cb3fcaefd?sharedUserId=snigdhugoud
 
 ---
 
