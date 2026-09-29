@@ -80,7 +80,9 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
-Add your screenshot here.
+
+![Uploading Screenshot (81).png…]()
+
 
 ---
 
