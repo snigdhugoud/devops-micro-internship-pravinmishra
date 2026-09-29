@@ -133,7 +133,7 @@ dmi.pravinmishra.com
 
 ### LinkedIn Post Link:
 
-https://lnkd.in/p/daBJJ8bs`
+https://lnkd.in/p/d2GzRPqX
 
 ---
 
