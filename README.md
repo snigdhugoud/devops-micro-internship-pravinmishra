@@ -132,7 +132,7 @@ This is not a course. It is an internship-style program — real deployments, re
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics |  ✅ Completed | ✅ Solved|https://www.linkedin.com/posts/sai-snehitha-goud-a22a49434_dmi-devops-micro-internship-with-agentic-activity-7505499838709694464-bxlE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3J_noBLo2QsuZ1fas3sl6L8i2eH1Tib40 | https://medium.com/@snigdhugoud/devops-micro-internship-week-0-internet-networking-7fcee6d1cd7f?sharedUserId=snigdhugoud|
 | 01 | Success Mindset | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/sai-snehitha-goud-a22a49434_dmibypravinmishra-agenticai-devops-activity-7505915767302021120-XsSK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3J_noBLo2QsuZ1fas3sl6L8i2eH1Tib40|https://medium.com/@snigdhugoud/week-01-success-mindset-devops-micro-internship-dmi-00942d8b3759?sharedUserId=snigdhugoud|
-| 02 | Agentic AI with Claude Code |✅ Completed |  ✅ Solved | https://lnkd.in/p/daBJJ8bs | https://medium.com/@snigdhugoud/reflection-week-2-8d2cb3fcaefd?sharedUserId=snigdhugoud |
+| 02 | Agentic AI with Claude Code |✅ Completed |  ✅ Solved |www.linkedin.com/in/sai-snehitha-goud-a22a49434 | https://medium.com/@snigdhugoud/reflection-week-2-8d2cb3fcaefd?sharedUserId=snigdhugoud |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
