@@ -20,7 +20,10 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+An AWS account is a personal account that allows us to access and use Amazon Web Services.
+It provides access to services such as S3, EC2, IAM, and CloudFront.
+At this stage, I need an AWS account to practice AWS and deploy the infrastructure I build during the DevOps internship.
+Using the Free Tier helps me learn and practice while keeping costs low.
 
 ---
 
