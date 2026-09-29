@@ -81,7 +81,9 @@ Run three tests that prove Claude remembers what you told it — without you say
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
 
-![Uploading Screenshot (81).png…]()
+
+<img width="1277" height="1078" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/505e7dc5-89b2-48f0-9735-03ab46e729c5" />
+
 
 
 ---
