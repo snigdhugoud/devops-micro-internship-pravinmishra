@@ -105,17 +105,35 @@ Your post must include:
 
 ### Submission Field
 
-LinkedIn Post Content (copy-paste here):
+🚀 Week 2 of the DevOps Micro Internship — Agentic AI
+This week, I explored how Agentic AI can support real DevOps workflows using Claude Code.
+I learned and practiced several important concepts, including:
+🔹 Claude Code — understanding how an AI coding agent can inspect a project, reason about tasks, and execute actions.
+🔹 Skills & Subagents — creating reusable skills and delegating tasks such as Terraform writing, security auditing, and cost optimization.
+🔹 MCP (Model Context Protocol) — connecting Claude Code with external tools such as GitHub to retrieve and work with real-time project information.
+🔹 Hooks & Permissions — implementing safeguards that can detect and block potentially destructive prompts and control tool usage.
+🔹 Memory — teaching Claude project-specific information and verifying that the information remains available in a fresh session.
+The biggest takeaway for me was learning that Agentic AI is not just about generating code. It is also about giving an AI agent the right context, tools, permissions, memory, and safety controls to work effectively.
+This week involved several challenges, especially around setup, authentication, MCP configuration, and Terraform. Working through those issues helped me understand the importance of troubleshooting step by step instead of simply looking for a quick solution.
+📸 Week 2 assignment screenshot attached
+I’m continuing to learn by building, testing, documenting, and sharing my progress publicly.
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://lnkd.in/dPZ7zzxj · Start your DevOps journey: https://lnkd.in/dc6eW_am
+
+
+DMI — DevOps Micro Internship with Agentic AIDMI — DevOps Micro Internship with Agentic AI
+
+dmi.pravinmishra.com
 
 ```
-https://lnkd.in/p/daBJJ8bs
+
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+https://lnkd.in/p/daBJJ8bs`
 
 ---
 
