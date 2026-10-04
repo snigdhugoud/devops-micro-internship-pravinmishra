@@ -239,8 +239,7 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff3732b1-ac57-4bd8-9c81-00e427825eaf" />
-
+<img width="1920" height="438" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/c61c1853-2613-4e52-a05c-32372b149294" />
 
 ---
 
