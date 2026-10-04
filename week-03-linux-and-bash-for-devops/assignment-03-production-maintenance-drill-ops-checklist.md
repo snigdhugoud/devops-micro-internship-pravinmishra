@@ -26,7 +26,8 @@ Add your screenshot here.
 
 #### Screenshot 2 — Output of `ip a`
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/5a24383b-5e5f-42ba-b258-a6f744661b02" />
+
 
 ---
 
