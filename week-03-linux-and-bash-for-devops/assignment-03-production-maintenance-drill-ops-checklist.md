@@ -218,13 +218,13 @@ Answer the following in your own words:
 
 **1. Which resource looks most critical right now? (CPU/load, memory, or disk) Explain why.**
 
-Write your answer here.
+Disk usage looks like the most important resource to monitor because a server needs enough free disk space for logs, temporary files, application data, and system operations. If disk usage is already high, it could become a problem sooner than CPU or memory.
 
 ---
 
 **2. What happens if disk becomes 100% full in a production server?**
 
-Write your answer here.
+If the disk becomes 100% full, the server may not be able to write new files, logs, temporary data, or application data. This can cause applications and services such as Nginx to fail or behave unexpectedly. Therefore, disk usage should be monitored and cleaned up before it reaches 100%.
 
 ---
 
