@@ -206,7 +206,9 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
-Add your screenshot here.
+
+<img width="1920" height="423" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/a103b185-1f04-41f7-a8e9-222d33ba27fc" />
+
 
 ---
 
