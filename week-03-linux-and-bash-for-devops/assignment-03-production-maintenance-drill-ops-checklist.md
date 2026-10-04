@@ -303,19 +303,19 @@ Answer the following in your own words:
 
 **1. What caused the configuration failure?**
 
-Write your answer here.
+The configuration failure was caused by an incorrect Nginx configuration syntax. Because of this syntax error, Nginx could not successfully load the configuration.
 
 ---
 
 **2. How did you fix the issue?**
 
-Write your answer here.
+I corrected the Nginx configuration and then ran sudo nginx -t to verify it. The test showed that the syntax was OK and the configuration test was successful.
 
 ---
 
 **3. How can you avoid this kind of issue in real production systems?**
 
-Write your answer here.
+I  would test the Nginx configuration with sudo nginx -t before restarting or reloading the service. I would also keep backups of working configurations, use version control, and have a rollback plan before making production changes.
 
 ---
 
