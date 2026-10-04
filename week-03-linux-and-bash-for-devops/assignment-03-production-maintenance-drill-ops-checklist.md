@@ -33,7 +33,8 @@ Add your screenshot here.
 
 #### Screenshot 3 — Output of `sudo ss -tulpen`
 
-Add your screenshot here.
+<img width="1920" height="699" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/6fb4bbfc-2a57-4ae4-8c07-ff0a0f98378c" />
+
 
 ---
 
