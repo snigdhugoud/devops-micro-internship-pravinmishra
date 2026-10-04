@@ -134,7 +134,7 @@ dmi.pravinmishra.com
 
 ### LinkedIn Post Link:
 
-https://lnkd.in/p/d2GzRPqX
+https://www.linkedin.com/posts/sai-snehitha-goud-a22a49434_dmibypravinmishra-agenticai-claudecode-share-7510721696367022081-PhKz/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3J_noBLo2QsuZ1fas3sl6L8i2
 
 ---
 
