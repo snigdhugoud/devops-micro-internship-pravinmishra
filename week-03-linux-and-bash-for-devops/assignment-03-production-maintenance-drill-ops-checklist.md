@@ -329,7 +329,8 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/07599a4a-58cd-4cf4-96d2-c07f5f4c4dda" />
+
 
 ---
 
