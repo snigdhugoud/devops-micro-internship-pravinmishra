@@ -190,7 +190,9 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 2 — Output of `free -h`
 
-Add your screenshot here.
+
+<img width="1804" height="230" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/5495b9d0-4f8d-487e-84e0-e75244d1c8ed" />
+
 
 ---
 
