@@ -277,7 +277,8 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 
 #### Screenshot 1 — Output of `sudo nginx -t` showing the syntax error (broken config)
 
-Add your screenshot here.
+<img width="1920" height="277" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/74a7e208-85c9-464d-a9df-ad51d9fb0be5" />
+
 
 ---
 
