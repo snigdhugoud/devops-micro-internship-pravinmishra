@@ -263,7 +263,7 @@ Answer the following in your own words:
 
 **1. How do you confirm that the correct version of the application is deployed?**
 
-Write your answer here.
+I confirm the correct version by checking the application in the browser and verifying that the expected changes, version number, or deployment message are displayed. I can also check the deployed files and use commands such as grep or ls to verify that the latest files are present.
 
 ---
 
