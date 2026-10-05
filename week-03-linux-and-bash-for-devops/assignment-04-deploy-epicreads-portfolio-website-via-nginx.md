@@ -50,7 +50,9 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-Add your screenshot here.
+
+<img width="1920" height="1080" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/b647861e-5c3e-4e3a-b6aa-1909c075c28e" />
+
 
 ---
 
