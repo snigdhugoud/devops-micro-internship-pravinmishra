@@ -20,7 +20,8 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 1 — Browser showing the React app with your Full Name visible on the UI
 
-Add your screenshot here.
+<img width="458" height="242" alt="Screenshot 2026-10-05 162244" src="https://github.com/user-attachments/assets/49970ecb-571f-46f1-aea5-ac4bbcd98bb0" />
+
 
 ---
 
