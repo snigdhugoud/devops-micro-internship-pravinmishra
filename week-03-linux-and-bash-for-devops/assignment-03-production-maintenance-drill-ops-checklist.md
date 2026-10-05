@@ -349,19 +349,25 @@ Answer the following in your own words:
 
 **1. What caused the application to break in this scenario?**
 
-Write your answer here
+The application broke because the web server’s application files were accidentally removed or changed. As a result, Nginx could not find or correctly serve the required files, which caused the 500 Internal Server Error.
 
 ---
 
 **2. How did you fix the issue and restore the application?**
 
-Write your answer here.
+I restored the original application files from the available backup and placed them back in the correct web directory. Then I checked the Nginx configuration, restarted/reloaded Nginx, and tested the application using curl. The application was restored successfully when the server returned HTTP 200 OK.
 
 ---
 
 **3. What steps would you take to prevent this kind of issue in real production systems?**
 
-Write your answer here.
+Keep regular backups of important application files and configurations.
+Use Git/version control so deleted or modified files can be restored easily.
+Use proper file permissions and restrict destructive commands.
+Test changes in a staging environment before production.
+Monitor Nginx/server errors and set up alerts.
+Use automated deployments with rollback support.
+Keep recovery procedures and backups tested regularly.
 
 ---
 
