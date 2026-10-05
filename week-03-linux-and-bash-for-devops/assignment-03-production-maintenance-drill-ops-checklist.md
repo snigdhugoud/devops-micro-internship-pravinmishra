@@ -337,7 +337,9 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+
+<img width="499" height="172" alt="Screenshot 2026-10-05 220715" src="https://github.com/user-attachments/assets/544240a4-3352-49bb-9fd4-a2b65d767ef6" />
+
 
 ---
 
