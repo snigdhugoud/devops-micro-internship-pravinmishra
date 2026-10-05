@@ -419,13 +419,16 @@ Unused cloud resources can continue consuming resources and may result in unnece
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+
+https://lnkd.in/p/da8f-Cf8
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+
+<img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/ea489d35-82e4-4f4a-a84e-ddcfa5e53aa2" />
+
 
 ---
 
