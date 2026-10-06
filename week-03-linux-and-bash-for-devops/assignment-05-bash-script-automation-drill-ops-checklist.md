@@ -412,25 +412,25 @@ Answer the following in your own words:
 
 **1. What is a function in Bash?**
 
-Add your answer here.
+A function is a block of commands that performs a specific task.
 
 ---
 
 **2. Why are functions useful in scripts?**
 
-Add your answer here.
+Functions make scripts easier to organize, reuse, and understand.
 
 ---
 
 **3. Which functions did you create in this script?**
 
-Add your answer here.
+I created print_header, print_user_details, check_files, and print_tools.
 
 ---
 
 **4. How does this final script combine variables, arrays, loops, conditionals, files, and functions?**
 
-Add your answer here.
+The script uses variables for information, an array for tools, a loop to display tools, conditionals to check files and directories, and functions to organize the tasks.
 
 ---
 
