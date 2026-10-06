@@ -384,19 +384,25 @@ Create a final Bash script using functions to organize reusable code.
 
 #### Screenshot 1 — Content of `final-automation.sh`
 
-Add your screenshot here.
+
+<img width="1920" height="1080" alt="Screenshot (158)" src="https://github.com/user-attachments/assets/fdc596f5-292b-4775-a397-b4823303d0e4" />
+
 
 ---
 
 #### Screenshot 2 — Output of `./final-automation.sh`
 
-Add your screenshot here.
+
+<img width="1920" height="561" alt="Screenshot (157)" src="https://github.com/user-attachments/assets/1855aca2-917a-4987-943b-d94ec695e2da" />
+
 
 ---
 
 #### Screenshot 3 — Output of `ls -lah` showing all created scripts
 
-Add your screenshot here.
+
+<img width="338" height="56" alt="image" src="https://github.com/user-attachments/assets/a4c4f5a3-9ced-4596-b3dd-00fc50a8a52e" />
+
 
 ---
 
