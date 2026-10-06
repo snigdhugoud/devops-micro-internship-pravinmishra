@@ -27,7 +27,8 @@ Verify that Bash is available on your system and create a clean workspace for th
 
 #### Screenshot 2 — Output of `pwd` and `ls -lah` showing the scripts directory
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/d1f16931-ff76-4719-96b0-bf255d716b24" />
+
 
 ---
 
