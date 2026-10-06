@@ -167,7 +167,8 @@ Add your screenshot here.
 
 #### Screenshot 2 — Output of `./tools-checklist.sh`
 
-Add your screenshot here.
+<img width="1740" height="420" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/71f3173c-79cd-41e8-a24a-15edfa200e83" />
+
 
 ---
 
