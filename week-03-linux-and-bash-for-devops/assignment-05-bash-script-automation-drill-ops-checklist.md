@@ -352,25 +352,25 @@ Answer the following in your own words:
 
 **1. What is the purpose of if-else in Bash?**
 
-Add your answer here.
+It is used to make decisions based on a condition.
 
 ---
 
 **2. What does `-ge` mean?**
 
-Add your answer here.
+-ge means greater than or equal to.
 
 ---
 
 **3. Why should conditions be tested with different values?**
 
-Add your answer here.
+To make sure the script works correctly in different situations.
 
 ---
 
 **4. How can conditionals help in automation scripts?**
 
-Add your answer here.
+They allow scripts to take different actions depending on the situation.
 
 ---
 
