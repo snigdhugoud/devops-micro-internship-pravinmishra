@@ -138,7 +138,8 @@ https://lnkd.in/p/dqZJ9rCB
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/b99d5af7-25dd-49d7-83d0-a0b0f3f59fd2" />
+
 
 ---
 
