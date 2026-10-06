@@ -145,7 +145,9 @@ We should avoid spaces around the = sign because Bash requires the variable assi
 
 **3. How do you access the value stored inside a Bash variable?**
 
-Add your answer here.
+You can access the value of a Bash variable by putting $ before the variable name.
+
+Example: echo $name
 
 ---
 
