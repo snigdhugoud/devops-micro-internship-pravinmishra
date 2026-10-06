@@ -319,7 +319,9 @@ Use if-else conditionals to make decisions based on a variable value.
 
 #### Screenshot 1 — Content of `score-check.sh` with `score=85`
 
-Add your screenshot here.
+
+<img width="1920" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/fd041161-9823-4549-8a11-2ecac74e00f1" />
+
 
 ---
 
