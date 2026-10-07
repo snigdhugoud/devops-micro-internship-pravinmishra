@@ -20,7 +20,9 @@ Confirm that Nginx and the React application are healthy before building the aut
 
 #### Screenshot 1 — Output of `systemctl is-active nginx`, `ss -ltn | grep ':80'`, and `curl -I http://localhost`
 
-Add your screenshot here.
+
+<img width="842" height="345" alt="Screenshot 2026-10-07 083025" src="https://github.com/user-attachments/assets/6cbd6cd3-d47e-4711-87bd-1467b523e674" />
+
 
 ---
 
