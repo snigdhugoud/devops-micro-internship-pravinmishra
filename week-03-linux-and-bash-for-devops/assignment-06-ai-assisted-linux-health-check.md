@@ -103,7 +103,9 @@ Use Claude Code to inspect the environment and produce a read-only plan before c
 
 #### Screenshot 4 — Claude Code showing the five-check plan and read-only inspection results
 
-Add your screenshot here.
+
+<img width="1920" height="1080" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/6d174b7e-0a07-4391-9f51-e588d01eef9e" />
+
 
 ---
 
