@@ -144,33 +144,29 @@ Create one Bash script that gathers consistent Linux and Nginx health evidence.
 
 <img width="1920" height="1080" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/b193ee93-b5d6-4932-9c0f-eed12508eb8d" />
 
-<img width="1920" height="1080" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/0077934f-1280-4d67-b6f9-8e0fead040d8" />
-
-<img width="1920" height="1080" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/fec3fe8d-96b3-4a74-8207-22fbda8ca362" />
-
-<img width="1920" height="1080" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/acedf0eb-fd8a-44d8-810a-de6e5d93a8e2" />
-
-
-
-
-
 ---
 
 #### Screenshot 6 — Middle section showing check functions and conditionals
 
-Add your screenshot here.
+
+<img width="1920" height="1080" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/fde23a89-9f68-4e87-b75c-ae192df1102b" />
+
 
 ---
 
 #### Screenshot 7 — Bottom section showing the loop, summary function, and exit behavior
 
-Add your screenshot here.
+
+<img width="1920" height="1080" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/f8ae1a84-a212-49ad-932c-ff9e8cd91438" />
+
 
 ---
 
 #### Screenshot 8 — Output of `bash -n scripts/linux-triage.sh` (no syntax errors) and `ls -l scripts/linux-triage.sh` showing executable permission
 
-Add your screenshot here.
+
+<img width="1920" height="1080" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/dba88d28-94d6-42f4-9b17-de52843f9094" />
+
 
 ---
 
