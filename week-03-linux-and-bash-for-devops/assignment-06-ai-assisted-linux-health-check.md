@@ -141,7 +141,18 @@ Create one Bash script that gathers consistent Linux and Nginx health evidence.
 
 #### Screenshot 5 — Top section of `linux-triage.sh` showing variables, thresholds, and the checks array
 
-Add your screenshot here.
+
+<img width="1920" height="1080" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/b193ee93-b5d6-4932-9c0f-eed12508eb8d" />
+
+<img width="1920" height="1080" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/0077934f-1280-4d67-b6f9-8e0fead040d8" />
+
+<img width="1920" height="1080" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/fec3fe8d-96b3-4a74-8207-22fbda8ca362" />
+
+<img width="1920" height="1080" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/acedf0eb-fd8a-44d8-810a-de6e5d93a8e2" />
+
+
+
+
 
 ---
 
