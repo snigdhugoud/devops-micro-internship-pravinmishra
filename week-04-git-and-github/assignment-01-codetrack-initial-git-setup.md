@@ -66,7 +66,8 @@ Set a global Git username and email for this machine using `git config --global`
 
 #### Screenshot 4 — Output of `git config --global --list` showing your `user.name` and `user.email`
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8fb32c4-76f7-41dd-8d80-db4e6b68f40c" />
+
 
 ---
 
