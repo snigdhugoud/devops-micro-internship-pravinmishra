@@ -115,19 +115,19 @@ Answer the following in your own words:
 
 **1. Which part of this task represents the Gather phase?**
 
-Add your answer here.
+The read-only inspection is the Gather phase. Claude collected information about the Nginx service, port 80, HTTP response, configuration, and error logs before taking any action.
 
 ---
 
 **2. Did Claude follow the instruction not to create files? How did you verify this?**
 
-Add your answer here.
+Yes. Claude followed the instruction and only performed read-only checks. I verified this by reviewing the commands it executed and confirming that no file-creation or modification commands were used.
 
 ---
 
 **3. Why is planning before coding useful in DevOps automation?**
 
-Add your answer here.
+Planning helps identify the required steps before making changes. It reduces mistakes, makes the workflow safer and more organized, and helps ensure that automation performs only the intended actions.
 
 ---
 
