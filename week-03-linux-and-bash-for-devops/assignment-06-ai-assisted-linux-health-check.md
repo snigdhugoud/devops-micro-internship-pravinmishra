@@ -503,13 +503,14 @@ The workflow followed Gather → Analyze → Human Act → Verify: evidence was 
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://lnkd.in/p/d-KSXTcq
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/123ddb51-8bce-4de1-8ce0-c90a778f9b2e" />
+
 
 ---
 
