@@ -445,51 +445,53 @@ A chatbot mainly provides answers, while an agentic workflow allows AI to gather
 
 Fill in all seven sections below in your own words.
 
-**Full Name:** Add your full name here
+**Full Name:** Vemula Saisnehitha
 
-**Date:** DD/MM/YYYY
+**Date:** 24/04/2006
 
 ---
 
 **1. Reported Symptom**
 
-Add your answer here.
+The website was not working because the Nginx service was inactive, and the HTTP request to the application failed.
 
 ---
 
 **2. Evidence Collected**
 
-Add your answer here.
+The Bash checks showed that Nginx was inactive, the HTTP request failed, and the application was unavailable.
 
 ---
 
 **3. Most Likely Cause**
 
-Add your answer here.
+The most likely cause was that the Nginx service was not running, which prevented the application from serving HTTP requests.
 
 ---
 
 **4. Human-Approved Recovery Action**
 
-Add your answer here.
+After reviewing the suggested recovery command, I manually executed:
+
+sudo systemctl start nginx
 
 ---
 
 **5. Verification**
 
-Add your answer here.
+The second /linux-triage run showed Nginx HEALTHY, HTTP 200 OK, Application HEALTHY, and no FAIL results.
 
 ---
 
 **6. Safety Decision**
 
-Add your answer here.
+The AI was allowed to collect and analyze evidence and suggest a recovery command, but the actual service restart was performed manually to keep the system change under human control.
 
 ---
 
 **7. Agentic Loop Mapping**
 
-Add your answer here.
+The workflow followed Gather → Analyze → Human Act → Verify: evidence was collected, Claude analyzed the problem, I performed the approved recovery action, and the second triage verified that the service recovered.
 
 ---
 
