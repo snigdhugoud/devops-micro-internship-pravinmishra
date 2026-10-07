@@ -284,25 +284,25 @@ Answer the following in your own words:
 
 **1. Why does this skill have Bash, Read, and Grep, but not Write?**
 
-Add your answer here.
+The skill needs Bash to run Linux commands, Read to inspect files, and Grep to search for specific information. It does not need Write because the purpose of the skill is to check and diagnose the server, not to modify files.
 
 ---
 
 **2. Why is `disable-model-invocation: true` useful for this skill?**
 
-Add your answer here.
+disable-model-invocation: true means Claude will not automatically run this skill on its own. It must be triggered manually by the user. This gives the user more control over when the server health-check is performed.
 
 ---
 
 **3. What part is performed by Bash, and what part is performed by Claude?**
 
-Add your answer here.
+Bash performs the actual Linux commands and collects evidence from the server. Claude reads and analyzes that evidence and explains whether the server appears healthy or if there are problems
 
 ---
 
 **4. Why is this better than asking Claude "Is my server healthy?" without giving it evidence?**
 
-Add your answer here.
+It is better because Claude makes its conclusion using real server evidence instead of guessing. The commands provide information such as service status, processes, files, and system conditions, making the health assessment more reliable.
 
 ---
 
