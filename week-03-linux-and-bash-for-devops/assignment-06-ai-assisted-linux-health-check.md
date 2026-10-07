@@ -233,26 +233,25 @@ Run the Bash script against the healthy server and verify that it creates a repo
 Answer the following in your own words:
 
 **1. What is the overall status of your healthy baseline?**
-
-Add your answer here.
+The overall status of my healthy baseline is HEALTHY because the Nginx service is running, the HTTP port is listening, and the application is responding normally.
 
 ---
 
 **2. Which exact Linux evidence proves the application is serving traffic?**
 
-Add your answer here.
+The curl -I http://localhost command proves that the application is serving traffic because it returns an HTTP response from the Nginx server.
 
 ---
 
 **3. Did your script return exit code 0 or 1? Explain why.**
 
-Add your answer here.
+The script returned exit code 0 because all required health checks passed and the system was in a healthy state.
 
 ---
 
 **4. What is the difference between a warning and a failure in this script?**
 
-Add your answer here.
+A warning means a condition has crossed a caution threshold but the service can still be working normally. A failure means an important health check has failed and the application or service may not be working correctly.
 
 ---
 
