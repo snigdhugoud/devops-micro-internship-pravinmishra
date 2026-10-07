@@ -40,19 +40,19 @@ Answer the following in your own words:
 
 **1. What proves that Nginx is running?**
 
-Add your answer here.
+The systemctl status nginx --no-pager command shows that Nginx is active (running). This confirms that the Nginx service is currently working.
 
 ---
 
 **2. What proves that the server is listening for HTTP traffic?**
 
-Add your answer here.
+The ss -tlnp command shows Nginx listening on port 80, which is the standard port for HTTP traffic. This proves the server is ready to receive web requests.
 
 ---
 
 **3. Why must you capture a healthy baseline before simulating an incident?**
 
-Add your answer here.
+A healthy baseline shows how the server works when everything is normal. After simulating an incident, we can compare the new results with the baseline to clearly identify what changed and confirm that the problem was caused by the incident.
 
 ---
 
