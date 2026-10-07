@@ -316,7 +316,8 @@ Create a controlled service failure, gather evidence through Bash, and let Claud
 
 #### Screenshot 13 — Output showing Nginx is inactive and the HTTP request fails
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/d99f7aa3-21e6-4f43-ab0a-55d8e4a133a6" />
+
 
 ---
 
