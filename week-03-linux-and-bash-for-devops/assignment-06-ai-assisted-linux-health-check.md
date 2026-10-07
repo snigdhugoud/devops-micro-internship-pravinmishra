@@ -323,7 +323,8 @@ Create a controlled service failure, gather evidence through Bash, and let Claud
 
 #### Screenshot 14 — `/linux-triage` output showing failed evidence, most likely cause, and a suggested recovery command
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/b1041af5-318f-471c-8ddc-bfd2a4095b17" />
+
 
 ---
 
