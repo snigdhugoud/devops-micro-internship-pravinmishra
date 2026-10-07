@@ -393,7 +393,8 @@ Recover the service as the human operator and prove that the system is healthy a
 
 #### Screenshot 18 — Output of `ls -lah reports` showing both `incident-failure-report.txt` and `recovery-report.txt`
 
-Add your screenshot here.
+<img width="341" height="81" alt="image" src="https://github.com/user-attachments/assets/8d46cb2b-7af0-4852-8a01-8605433f6956" />
+
 
 ---
 
