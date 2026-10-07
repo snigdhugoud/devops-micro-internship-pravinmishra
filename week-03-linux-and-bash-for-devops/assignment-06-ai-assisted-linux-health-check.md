@@ -400,7 +400,10 @@ Recover the service as the human operator and prove that the system is healthy a
 
 #### Screenshot 19 — `incident-summary.md` showing all required sections and your Full Name
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (178)" src="https://github.com/user-attachments/assets/53855fae-1133-48a2-bbea-18e8dbe26af7" />
+<img width="1878" height="495" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/4e8e6178-e174-43ab-828c-0edf0814a791" />
+
+
 
 ---
 
