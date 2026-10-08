@@ -101,7 +101,8 @@ Commit the staged starter files using the message `Initial UI scaffold: add inde
 
 #### Screenshot 8 — Output of `git log --oneline` showing the first commit
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/4b179639-029c-4d5f-81e3-8685f1e639a5" />
+
 
 ---
 
