@@ -64,7 +64,8 @@ Create `contact.html` with the provided content and commit it alone using the me
 
 #### Screenshot 5 — Output of `git log --oneline -3` showing the new commit
 
-Add your screenshot here.
+<img width="496" height="78" alt="image" src="https://github.com/user-attachments/assets/9e4f59f2-0731-455e-8e89-a7d9a34e2291" />
+
 
 ---
 
