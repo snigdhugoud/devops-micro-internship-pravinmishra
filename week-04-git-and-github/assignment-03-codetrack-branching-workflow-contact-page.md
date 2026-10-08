@@ -79,7 +79,8 @@ Add the provided Contact Page link to `index.html` and commit it separately usin
 
 #### Screenshot 6 — Output of `git status` showing `index.html` as modified before staging
 
-<img width="1920" height="407" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/0c9a4fd7-df95-485d-bdf7-b51e7bb9da7d" />
+<img width="1884" height="334" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/04edc85a-0cd0-4989-8533-a2723092accd" />
+
 
 
 ---
