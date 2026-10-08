@@ -87,7 +87,8 @@ Add the provided Contact Page link to `index.html` and commit it separately usin
 
 #### Screenshot 7 — Output of `git commit`
 
-Add your screenshot here.
+<img width="1920" height="477" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/3aca28a7-7c08-4a75-9051-e02a5e75aa2f" />
+
 
 ---
 
