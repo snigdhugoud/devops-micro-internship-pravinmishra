@@ -137,7 +137,8 @@ Follow the instruction comment inside `index.html` to update the Student Name an
 
 #### Screenshot 12 — Output of `git log --oneline` showing two commits
 
-Add your screenshot here.
+<img width="321" height="75" alt="image" src="https://github.com/user-attachments/assets/01bde188-e624-477e-bc7a-bfeb7d5fb3fb" />
+
 
 ---
 
