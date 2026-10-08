@@ -185,7 +185,8 @@ Paste your LinkedIn post URL here:
 
 #### Screenshot — LinkedIn post showing the deployed CodeTrack application
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/1512fa66-a441-47dc-92b9-5956d69bb5a9" />
+
 
 ---
 
