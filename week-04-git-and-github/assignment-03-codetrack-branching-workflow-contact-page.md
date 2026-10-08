@@ -50,7 +50,8 @@ Create `contact.html` with the provided content and commit it alone using the me
 
 #### Screenshot 3 — Output of `ls` showing `contact.html`
 
-Add your screenshot here.
+<img width="427" height="192" alt="image" src="https://github.com/user-attachments/assets/ea361943-fbea-4ec2-b7d2-2621bc470363" />
+
 
 ---
 
