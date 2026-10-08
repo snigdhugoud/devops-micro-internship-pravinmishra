@@ -72,7 +72,8 @@ Confirm both files show as untracked, then stage them individually with `git add
 
 #### Screenshot 5 — Output of `git status` showing both files as untracked
 
-Add your screenshot here.
+<img width="1886" height="314" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/cd78eb3f-e8d1-42eb-9100-c3439002ba24" />
+
 
 ---
 
