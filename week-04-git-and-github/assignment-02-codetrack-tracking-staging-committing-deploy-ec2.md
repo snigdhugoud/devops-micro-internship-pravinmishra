@@ -166,7 +166,8 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 #### Screenshot 15 — Browser showing the CodeTrack site loaded at `http://<EC2_PUBLIC_IP>`, with your Full Name and Group Name visible
 
-Add your screenshot here.
+<img width="439" height="289" alt="image" src="https://github.com/user-attachments/assets/b711e0f3-3e71-471c-855a-82f56751dfc6" />
+
 
 ---
 
