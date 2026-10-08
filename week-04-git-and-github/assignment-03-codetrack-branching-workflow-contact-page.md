@@ -57,7 +57,8 @@ Create `contact.html` with the provided content and commit it alone using the me
 
 #### Screenshot 4 — Output of `git commit`
 
-Add your screenshot here.
+<img width="320" height="134" alt="image" src="https://github.com/user-attachments/assets/546a2ca1-6e40-45e0-a1d9-4e67280746e5" />
+
 
 ---
 
