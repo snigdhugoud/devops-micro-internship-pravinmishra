@@ -202,15 +202,15 @@ Delete the merged `feature/contact-page` branch to keep your branch list clean.
 
 # Completion Checklist
 
-- [ ] Repository confirmed clean on the default branch (Screenshot 1)
-- [ ] `feature/contact-page` created and checked out (Screenshot 2)
-- [ ] `contact.html` added in its own commit (Screenshots 3–5)
-- [ ] Homepage Contact link added in a separate commit (Screenshots 6–8)
-- [ ] Default branch proven unchanged before merge (Screenshots 9–10)
-- [ ] Feature branch merged and Contact page verified (Screenshots 11–13)
-- [ ] Graph history reviewed (Screenshot 14)
-- [ ] Optional cleanup completed (Screenshot 15)
-- [ ] No sensitive data exposed
+- [✅] Repository confirmed clean on the default branch (Screenshot 1)
+- [✅] `feature/contact-page` created and checked out (Screenshot 2)
+- [✅] `contact.html` added in its own commit (Screenshots 3–5)
+- [✅] Homepage Contact link added in a separate commit (Screenshots 6–8)
+- [✅] Default branch proven unchanged before merge (Screenshots 9–10)
+- [✅] Feature branch merged and Contact page verified (Screenshots 11–13)
+- [✅] Graph history reviewed (Screenshot 14)
+- [✅] Optional cleanup completed (Screenshot 15)
+- [✅] No sensitive data exposed
 
 ---
 
