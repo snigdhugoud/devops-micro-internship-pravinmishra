@@ -52,7 +52,8 @@ Browse Trending, search for a public project, star at least one repository, and 
 
 #### Screenshot 4 — A repository page showing the Star button in the Starred state
 
-Add your screenshot here.
+<img width="949" height="466" alt="image" src="https://github.com/user-attachments/assets/4bdebb6e-a76c-4bc1-b423-afa550d31317" />
+
 
 ---
 
