@@ -118,7 +118,9 @@ Switch back to the default branch and confirm that `contact.html` and the Contac
 
 #### Screenshot 10 — Browser showing the homepage on the default branch with no Contact Page link
 
-Add your screenshot here.
+
+<img width="437" height="291" alt="Screenshot 2026-10-08 145217" src="https://github.com/user-attachments/assets/365ee0af-7225-4c23-a868-10a2d269ecf0" />
+
 
 ---
 
