@@ -44,7 +44,9 @@ Browse Trending, search for a public project, star at least one repository, and 
 
 #### Screenshot 3 — GitHub Trending page visible in the browser
 
-Add your screenshot here.
+
+<img width="953" height="468" alt="image" src="https://github.com/user-attachments/assets/ae2d60d5-6af2-4704-a157-23f4e2037d3b" />
+
 
 ---
 
