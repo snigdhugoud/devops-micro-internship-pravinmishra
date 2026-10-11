@@ -20,7 +20,9 @@ Confirm that you have a working GitHub account and can access your GitHub dashbo
 
 #### Screenshot 1 — GitHub dashboard or Home page showing you're signed in, with your username visible
 
-Add your screenshot here.
+
+<img width="950" height="451" alt="image" src="https://github.com/user-attachments/assets/9f8e140f-fba2-43d1-8f86-5187a3d87dfc" />
+
 
 ---
 
