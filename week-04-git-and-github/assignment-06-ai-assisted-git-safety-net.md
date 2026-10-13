@@ -249,32 +249,30 @@ Explain this assignment's workflow using the same Gather → Analyze → Human A
 
 **1. Which step(s) represent Gather?**
 
-Add your answer here.
+Gather means collecting information about the repository, checking the current branch and Git status, and inspecting the staged changes using commands such as git status and git diff --cached.
 
 ---
 
 **2. Which step(s) represent Analyze?**
 
-Add your answer here.
-
+Analyze means running the pre-commit hook to check for known secret patterns and using the /pr-ready skill to review staged changes, identify risks, and draft the PR title and description.
 ---
 
 **3. Which step is Human Act, and why must a human — not Claude — run `git commit`, `git push`, and open the PR?**
 
-Add your answer here.
+Human Act is when I review the results and manually run git commit, git push, and open the pull request. A human must control these actions to prevent accidental commits, secret exposure, or unwanted changes being shared without approval.
 
 ---
 
 **4. Which step is Verify?**
 
-Add your answer here.
+Verify means checking that the commit succeeds without a BLOCKED message, confirming the staged changes are safe, reviewing the PR title and description, and ensuring the pull request targets the correct repository and branch.
 
 ---
 
 **5. In one or two sentences: why do you need *both* the fixed-rule pre-commit hook and the AI skill? Isn't one enough?**
 
-Add your answer here.
-
+The pre-commit hook reliably blocks known risky patterns, such as a fake AWS key, while the /pr-ready AI skill can identify broader risks and help prepare a clear PR description. Both are useful because fixed rules can miss unfamiliar issues, and AI can make mistakes, so human review is still necessary.
 ---
 
 # Task 8 — LinkedIn Post
