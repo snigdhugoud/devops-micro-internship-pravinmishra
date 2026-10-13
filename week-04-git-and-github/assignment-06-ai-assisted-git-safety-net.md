@@ -223,19 +223,19 @@ https://github.com/pravinmishraaws/devops-micro-internship-interviews/pull/494
 
 **1. What, if anything, did you edit in the AI's drafted PR description before using it? Why?**
 
-Add your answer here.
+I checked the AI-generated PR description and corrected any details that were inaccurate or missing. I made sure it clearly explained my changes and did not claim tests or checks that I had not performed.
 
 ---
 
 **2. If you had blindly copy-pasted the AI's draft without reading it, what could go wrong?**
 
-Add your answer here.
+I checked the AI-generated PR description and corrected any details that were inaccurate or missing. I made sure it clearly explained my changes and did not claim tests or checks that I had not performed.
 
 ---
 
 **3. Why does this PR need to target your own fork instead of the shared upstream repository?**
 
-Add your answer here.
+My fork is my own copy of the repository, where I have permission to push my branch. Targeting my fork allows me to prepare and test my changes without directly modifying the shared upstream repository.
 
 ---
 
