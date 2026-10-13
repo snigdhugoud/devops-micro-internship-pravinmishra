@@ -74,7 +74,8 @@ Create the branch `feature-readme-update`, add only your own entry (`Full Name â
 
 #### Screenshot 5 â€” Output of `git commit`
 
-Add your screenshot here.
+<img width="1863" height="305" alt="Screenshot (206)" src="https://github.com/user-attachments/assets/0afd9035-53d7-4e07-8891-01768a4adad8" />
+
 
 ---
 
