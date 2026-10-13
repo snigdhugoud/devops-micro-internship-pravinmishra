@@ -89,13 +89,17 @@ Create a tracked, shareable pre-commit hook that blocks a commit containing secr
 
 **1. Why is `hooks/pre-commit` tracked in the repo instead of living only in `.git/hooks/`?**
 
-Add your answer here.
+The hooks/pre-commit file is tracked in the repository so that all team members can share, review, and maintain the same hook script. Files inside .git/hooks/ are local to each developer's computer and are not included in Git commits. Keeping the hook in the repository makes it easier to share the script and set it up consistently across different computers.
 
 ---
 
 **2. Compare this to `PreToolUse` from Week 2 Assignment 6. What does each one intercept, and what do they have in common?**
 
-Add your answer here.
+The Git pre-commit hook intercepts a Git commit before it is created and can check for problems, such as accidentally staged secrets. If a problem is found, it can stop the commit.
+
+The PreToolUse hook in Claude Code intercepts a tool call before Claude Code executes that tool. It can check the proposed action and help prevent unsafe operations.
+
+Both act as safety checkpoints before an action happens. They help detect problems early and prevent unsafe actions from proceeding.
 
 ---
 
