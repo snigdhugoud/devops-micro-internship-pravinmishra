@@ -73,7 +73,8 @@ Create a tracked, shareable pre-commit hook that blocks a commit containing secr
 
 #### Screenshot 2 — `hooks/pre-commit` open in VS Code showing the full script
 
-Add your screenshot here.
+<img width="1721" height="881" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/5118d241-91fb-4147-8dd9-5ea24f747926" />
+
 
 ---
 
