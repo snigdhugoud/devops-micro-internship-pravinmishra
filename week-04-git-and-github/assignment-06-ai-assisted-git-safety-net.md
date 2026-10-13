@@ -122,13 +122,13 @@ Attempt to commit the staged file from Task 1 and show the hook rejecting it.
 
 **1. Which line in `hooks/pre-commit` matched your fake key, and why did it match?**
 
-Add your answer here.
+The line that checks for the AKIA prefix matched my fake key because the key was created to look like an AWS access key. The hook detected the matching pattern in the staged file and displayed the BLOCKED message, preventing the commit. This shows how a pre-commit hook can help detect potential secrets before they enter the repository.
 
 ---
 
 **2. Could this hook have caught a poorly-named variable that stores a secret without the `AKIA` prefix? What does that tell you about the limits of a fixed rule like this?**
 
-Add your answer here.
+No, the hook might not detect a secret that does not contain the AKIA prefix or match its specific pattern. This shows that fixed rules can miss secrets that use different formats or names. Therefore, a pre-commit hook is a useful first line of defense, but it cannot guarantee that every secret will be detected.
 
 ---
 
