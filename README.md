@@ -134,7 +134,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 01 | Success Mindset | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/sai-snehitha-goud-a22a49434_dmibypravinmishra-agenticai-devops-activity-7505915767302021120-XsSK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3J_noBLo2QsuZ1fas3sl6L8i2eH1Tib40|https://medium.com/@snigdhugoud/week-01-success-mindset-devops-micro-internship-dmi-00942d8b3759?sharedUserId=snigdhugoud|
 | 02 | Agentic AI with Claude Code | ✅ Completed|  ✅ Solved |https://www.linkedin.com/posts/sai-snehitha-goud-a22a49434_dmibypravinmishra-agenticai-claudecode-share-7510721696367022081-PhKz/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3J_noBLo2QsuZ1fas3sl6L8i2 | https://medium.com/@snigdhugoud/reflection-week-2-8d2cb3fcaefd?sharedUserId=snigdhugoud |
 | 03 | Linux & Bash for DevOps | ✅ Completed| ✅ Solved | https://www.linkedin.com/posts/sai-snehitha-goud-a22a49434_devops-linux-bash-share-7513604853882015744-uzW4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3J_noBLo2QsuZ1fas3sl6L8i2eH1Tib40 | https://medium.com/@snigdhugoud/week-3-linux-and-bash-for-devops-reflection-357f2ff29606?sharedUserId=snigdhugoud|
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
+| 04 | Git & GitHub | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/sai-snehitha-goud-a22a49434_devops-git-github-share-7515700280584380418-04it/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3J_noBLo2QsuZ1fas3sl6L8i2eH1Tib40| — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
