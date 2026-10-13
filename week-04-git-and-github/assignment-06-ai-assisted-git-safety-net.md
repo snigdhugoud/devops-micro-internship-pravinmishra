@@ -293,9 +293,9 @@ Add your LinkedIn post URL here...
 
 Add 3-5 bullet points on what you learned this week.
 
--
--
--
+I learned how to use a Git pre-commit hook to detect fake secret keys and block unsafe commits.
+I understood how to create and use a feature branch to keep my work separate from the main branch.
+I learned how to use the /pr-ready AI skill to review staged changes, identify risks, and draft a PR title and description.
 
 ---
 
