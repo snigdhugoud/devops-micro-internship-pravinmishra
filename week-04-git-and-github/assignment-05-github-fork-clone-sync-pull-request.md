@@ -145,7 +145,7 @@ Paste your LinkedIn post URL here:https://lnkd.in/p/d-RaABUN
 
 #### Screenshot — LinkedIn post showing your successfully created Pull Request
 
-<img width="1901" height="793" alt="Screenshot (212)" src="https://github.com/user-attachments/assets/cd66e413-cd2b-4165-b6dd-9dcb1e8a7e58" />
+<img width="1908" height="896" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/e1f70394-4265-41cb-a1a3-45d60fcf9491" />
 
 
 ---
@@ -169,15 +169,15 @@ https://github.com/snigdhugoud/devops-micro-internship-interviews
 
 # Completion Checklist
 
-- [ ] Upstream repository forked to your GitHub account (Screenshot 1)
-- [ ] GitHub authentication configured securely (Screenshot 2)
-- [ ] Fork cloned locally with `origin` and `upstream` configured (Screenshot 3)
-- [ ] Only `pull_request.md` modified, with your own entry added (Screenshots 4–5)
-- [ ] Local default branch synchronized with `upstream/main`, feature branch rebased and pushed (Screenshots 6–7)
-- [ ] Pull Request opened against the correct upstream repository and branch (Screenshots 8–9)
-- [ ] Fork URL and Pull Request URL included
-- [ ] LinkedIn post published and URL submitted
-- [ ] No PAT, password, private key, or authentication secret exposed
+- [✅] Upstream repository forked to your GitHub account (Screenshot 1)
+- [✅] GitHub authentication configured securely (Screenshot 2)
+- [✅] Fork cloned locally with `origin` and `upstream` configured (Screenshot 3)
+- [✅] Only `pull_request.md` modified, with your own entry added (Screenshots 4–5)
+- [✅] Local default branch synchronized with `upstream/main`, feature branch rebased and pushed (Screenshots 6–7)
+- [✅] Pull Request opened against the correct upstream repository and branch (Screenshots 8–9)
+- [✅] Fork URL and Pull Request URL included
+- [✅] LinkedIn post published and URL submitted
+- [✅] No PAT, password, private key, or authentication secret exposed
 
 ---
 
