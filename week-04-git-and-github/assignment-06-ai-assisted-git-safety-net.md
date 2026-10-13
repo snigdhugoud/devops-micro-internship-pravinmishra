@@ -193,7 +193,7 @@ Remove the secret and debug statement, then prove both gates now pass clean.
 
 **1. What exactly did you change to satisfy the pre-commit hook?**
 
-Add your answer here.
+I removed the fake secret key and fixed the risky content in the staged file. Then I staged the corrected changes again and ran git commit. The pre-commit hook checked the changes and allowed the commit because the fake key pattern was no longer present.
 
 ---
 
@@ -209,7 +209,7 @@ Push your branch and open a real Pull Request, using `/pr-ready`'s drafted title
 
 #### Screenshot 9 — Your Pull Request showing the base repository is your own fork, plus the title and description, with the `/pr-ready` draft visible for comparison (paste it in the PR conversation or your notes below)
 
-Add your screenshot here.
+
 
 ---
 
