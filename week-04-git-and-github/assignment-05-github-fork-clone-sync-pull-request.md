@@ -118,7 +118,8 @@ Open a Pull Request from `feature-readme-update` on your fork to `main` on the u
 
 #### Screenshot 9 — Successfully created Pull Request page with the PR number visible
 
-Add your screenshot here.
+<img width="1920" height="927" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/e9f2ac0b-c449-4770-a589-4b4ef3d7d980" />
+
 
 ---
 
