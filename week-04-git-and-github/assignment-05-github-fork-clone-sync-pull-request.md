@@ -139,7 +139,7 @@ https://github.com/pravinmishraaws/devops-micro-internship-interviews/pull/493
 
 Paste your LinkedIn post URL here:
 
-https://github.com/pravinmishraaws/devops-micro-internship-interviews/pull/493
+
 
 ---
 
