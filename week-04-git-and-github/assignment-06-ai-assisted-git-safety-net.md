@@ -215,7 +215,7 @@ Push your branch and open a real Pull Request, using `/pr-ready`'s drafted title
 
 #### PR Link
 
-Add your PR URL here...
+https://github.com/pravinmishraaws/devops-micro-internship-interviews/pull/494
 
 ---
 
