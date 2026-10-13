@@ -271,7 +271,6 @@ Verify means checking that the commit succeeds without a BLOCKED message, confir
 ---
 
 **5. In one or two sentences: why do you need *both* the fixed-rule pre-commit hook and the AI skill? Isn't one enough?**
-
 The pre-commit hook reliably blocks known risky patterns, such as a fake AWS key, while the /pr-ready AI skill can identify broader risks and help prepare a clear PR description. Both are useful because fixed rules can miss unfamiliar issues, and AI can make mistakes, so human review is still necessary.
 ---
 
