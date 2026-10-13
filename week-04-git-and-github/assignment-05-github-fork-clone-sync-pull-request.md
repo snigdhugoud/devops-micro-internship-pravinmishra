@@ -145,7 +145,8 @@ Paste your LinkedIn post URL here:https://lnkd.in/p/dy4VUfcG
 
 #### Screenshot — LinkedIn post showing your successfully created Pull Request
 
-Add your screenshot here.
+<img width="1901" height="793" alt="Screenshot (212)" src="https://github.com/user-attachments/assets/cd66e413-cd2b-4165-b6dd-9dcb1e8a7e58" />
+
 
 ---
 
