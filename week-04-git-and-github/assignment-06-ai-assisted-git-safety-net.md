@@ -36,7 +36,7 @@ Confirm you are working in your own fork, then create a dedicated branch for thi
 
 **1. Why create a dedicated branch instead of doing this work on main?**
 
-Add your answer here.
+A dedicated branch allows me to work on a new task without affecting the main branch. It keeps my changes separate, makes it easier to test and review them, and helps prevent mistakes in the main project. Once the changes are ready, I can create a Pull Request to merge them into main.
 
 ---
 
