@@ -113,7 +113,8 @@ Attempt to commit the staged file from Task 1 and show the hook rejecting it.
 
 #### Screenshot 4 — Terminal showing `git commit` rejected with the hook's "BLOCKED" message naming the exact file
 
-Add your screenshot here.
+<img width="1715" height="221" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/fe085c2b-048a-46f8-9f0f-b5cd4f0e7106" />
+
 
 ---
 
