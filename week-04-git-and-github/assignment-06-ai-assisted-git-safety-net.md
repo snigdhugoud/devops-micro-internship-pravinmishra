@@ -50,7 +50,8 @@ On your own fork of this repository (the one you've been submitting your DMI wor
 
 #### Screenshot 1 — Output of  `git status` showing the staged file on feature/ai-pr-ready
 
-Add your screenshot here.
+<img width="1861" height="342" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/3240e106-e8b3-4e83-a051-f6dcc45ccc54" />
+
 
 ---
 
