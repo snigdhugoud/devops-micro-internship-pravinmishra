@@ -59,7 +59,7 @@ On your own fork of this repository (the one you've been submitting your DMI wor
 
 **1. Why does this assignment use an obviously fake key instead of a real one?**
 
-Add your answer here.
+This assignment uses an obviously fake key to practice secret detection safely without exposing real credentials. A real key could give unauthorized access to accounts or services if it were accidentally committed to GitHub. The fake key helps us learn how to identify and prevent secret leaks without risking actual security.
 
 ---
 
