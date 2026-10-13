@@ -158,13 +158,13 @@ Create a manually invoked Claude Code skill that reads your staged changes and p
 
 **1. Why does `/pr-ready` have `Bash` and `Read` but not `Write`?**
 
-Add your answer here.
+The /pr-ready skill uses Bash and Read to inspect staged changes and gather information about the code. It does not have Write permission because its job is only to analyze the changes and prepare a PR-readiness report and draft description. This helps prevent accidental file modifications and keeps the final decisions and actions under human control.
 
 ---
 
 **2. The pre-commit hook and `/pr-ready` both looked at the same staged diff. Did they flag the same things? What did one catch that the other didn't?**
 
-Add your answer here.
+No, they did not necessarily flag the same things. The pre-commit hook checks for specific patterns, such as a fake AWS key with the AKIA prefix, and blocks the commit when a match is found. The /pr-ready skill performs a broader review and can flag potential secrets as well as debug statements. This shows that the pre-commit hook enforces fixed rules, while /pr-ready provides a more general review. Both help identify problems before changes are submitted.
 
 ---
 
