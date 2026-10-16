@@ -20,7 +20,8 @@ Create a private, team-managed Scrum Space named `DevOps Micro-Internship Websit
 
 #### Screenshot 1 — Space confirmation or Space sidebar showing the Space name and key
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f9a5470-3ddd-4727-9f1c-c3b41c53083b" />
+<img width="1920" height="1080" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/cb7fe9bb-af2d-4a2c-922c-da933f8e5e72" />
+
 
 
 ---
