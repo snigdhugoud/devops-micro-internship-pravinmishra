@@ -94,7 +94,10 @@ Apply the `frontend` label to S1, S2, S3, S5, and S6, and the `devops` label to 
 
 #### Screenshot 7 — Backlog or Story details showing labels applied to at least two visible Stories
 
-Add your screenshot here.
+<img width="1497" height="699" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/ec6085f2-2845-48dc-8f6f-1fce7ffec300" />
+<img width="1240" height="881" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/94b54d73-8926-4d22-898d-10e25dca27da" />
+
+
 
 ---
 
