@@ -81,7 +81,8 @@ Add your screenshot here.
 
 #### Screenshot 5 — Opened project showing either the Board or Backlog screen
 
-Add your screenshot here.
+<img width="953" height="383" alt="image" src="https://github.com/user-attachments/assets/e04b70f9-6a5b-4dcb-abef-f66cb448b7ed" />
+
 
 ---
 
