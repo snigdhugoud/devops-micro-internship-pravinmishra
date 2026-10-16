@@ -72,7 +72,8 @@ Break down S2 (Primary button color refresh) and S4 (Footer with version and dat
 
 #### Screenshot 5 — S2 showing all four Sub-tasks
 
-Add your screenshot here.
+<img width="1889" height="778" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/90abaf09-0c77-42cb-a0cd-2b3c4599475e" />
+
 
 ---
 
