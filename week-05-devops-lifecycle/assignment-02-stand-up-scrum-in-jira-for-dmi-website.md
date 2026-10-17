@@ -152,7 +152,8 @@ Locate the Burndown Chart for Sprint 1 so it is ready for later progress trackin
 
 #### Screenshot 12 — Burndown Chart page opened for Sprint 1
 
-Add your screenshot here.
+<img width="1910" height="900" alt="Screenshot (238)" src="https://github.com/user-attachments/assets/643f13b2-1b53-4aa7-9766-7b02b7ffd8dc" />
+
 
 ---
 
