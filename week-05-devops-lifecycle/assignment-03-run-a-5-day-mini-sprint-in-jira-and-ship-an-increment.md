@@ -20,7 +20,8 @@ Create the footer Story (`Add footer with version and deploy date`, 1 point, `fr
 
 #### Screenshot 1 — Sprint 1 created with the Story inside it
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/eb4228ac-8db0-41f6-873d-ed6b778fd916" />
+
 
 ---
 
