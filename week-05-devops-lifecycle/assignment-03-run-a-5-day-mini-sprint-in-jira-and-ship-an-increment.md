@@ -22,6 +22,8 @@ Create the footer Story (`Add footer with version and deploy date`, 1 point, `fr
 
 <img width="1920" height="1080" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/eb4228ac-8db0-41f6-873d-ed6b778fd916" />
 <img width="1920" height="875" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/d6e81c2d-bfe6-4292-9d2c-3e07bd15add2" />
+<img width="1910" height="886" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/8b91c78e-bf63-4aab-a099-24128ee2a400" />
+
 
 
 
