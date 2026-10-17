@@ -52,7 +52,8 @@ Add the required footer text (`Pravin Mishra Portfolio v1.0 — Deployed on <DD 
 
 #### Screenshot 4 — Successful Git commit output
 
-Add your screenshot here.
+<img width="1916" height="913" alt="Screenshot (244)" src="https://github.com/user-attachments/assets/32e24702-be31-4be8-99df-c2ccb40fe80c" />
+
 
 ---
 
