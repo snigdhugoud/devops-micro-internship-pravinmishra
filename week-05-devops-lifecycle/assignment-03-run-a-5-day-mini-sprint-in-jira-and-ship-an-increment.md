@@ -83,7 +83,8 @@ Update the footer so the deployment date is generated automatically (or updated 
 
 #### Screenshot 7 — Code editor showing the footer and date logic or deployment-time template snippet
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/835adc02-e72b-4b24-979e-04f358dde36d" />
+
 
 ---
 
