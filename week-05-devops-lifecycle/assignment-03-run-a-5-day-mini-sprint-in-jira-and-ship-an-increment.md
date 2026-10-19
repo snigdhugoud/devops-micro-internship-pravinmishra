@@ -96,7 +96,8 @@ Add your screenshot here.
 
 #### Screenshot 9 — README snippet documenting the footer and date behavior
 
-Add your screenshot here.
+<img width="1920" height="954" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/8ff86f6e-df56-4d91-8d7b-83414ec9d23b" />
+
 
 ---
 
