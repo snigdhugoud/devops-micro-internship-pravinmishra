@@ -90,7 +90,8 @@ Update the footer so the deployment date is generated automatically (or updated 
 
 #### Screenshot 8 — EC2 browser view showing the updated footer with the current date
 
-![Uploading Saisnehitha’s DevOps Portfolio Homepage.png…]()
+<img width="1536" height="941" alt="Saisnehitha’s DevOps Portfolio Homepage" src="https://github.com/user-attachments/assets/8913dd39-5783-42f2-aa70-2a6e3826e882" />
+
 
 
 ---
