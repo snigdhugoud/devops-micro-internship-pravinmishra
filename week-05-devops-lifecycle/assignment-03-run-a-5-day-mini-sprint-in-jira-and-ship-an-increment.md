@@ -90,7 +90,8 @@ Update the footer so the deployment date is generated automatically (or updated 
 
 #### Screenshot 8 — EC2 browser view showing the updated footer with the current date
 
-Add your screenshot here.
+![Uploading Saisnehitha’s DevOps Portfolio Homepage.png…]()
+
 
 ---
 
