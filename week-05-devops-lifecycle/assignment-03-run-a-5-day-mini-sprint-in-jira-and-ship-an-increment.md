@@ -171,7 +171,7 @@ Record a two-to-three-minute demo video of the shipped footer, add a retrospecti
 
 #### Screenshot 16 — Jira retrospective comment
 
-Add your screenshot here.
+<img width="1920" height="868" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/49b0ba43-031f-4918-beb1-bc460a0a6205" />
 
 ---
 
