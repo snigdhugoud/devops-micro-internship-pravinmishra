@@ -126,7 +126,8 @@ Improve the footer's spacing, contrast, and readability, then validate it at bot
 
 #### Screenshot 12 — Mobile responsive view showing the footer remains readable
 
-Add your screenshot here.
+<img width="866" height="1150" alt="GitHub Preview of DMI Mobile Website" src="https://github.com/user-attachments/assets/5b7f8a8b-121b-4f20-b4c7-7137e80b7360" />
+
 
 ---
 
