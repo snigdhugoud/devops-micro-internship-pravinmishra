@@ -133,7 +133,10 @@ Improve the footer's spacing, contrast, and readability, then validate it at bot
 
 #### Screenshot 13 — Jira Story comment showing the Day 3 Daily Scrum update
 
-Add your screenshot here.
+<img width="972" height="881" alt="Screenshot (251)" src="https://github.com/user-attachments/assets/a33c6144-3b85-420e-baf6-712b1fd9befc" />
+<img width="955" height="915" alt="Screenshot (252)" src="https://github.com/user-attachments/assets/54387f23-a605-4b6e-949f-7e345d024af9" />
+
+
 
 ---
 
