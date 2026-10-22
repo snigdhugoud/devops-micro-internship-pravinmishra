@@ -143,7 +143,7 @@ Create Sprint 1, move three or four Stories into it (approximately 3–6 points)
 
 #### Screenshot 7 — Sprint 1 with the selected Stories inside it
 
-Add your screenshot here.
+<img width="1920" height="892" alt="Screenshot (265)" src="https://github.com/user-attachments/assets/df26d122-1ffd-4fe0-9d7d-5131b946c8e5" />
 
 ---
 
