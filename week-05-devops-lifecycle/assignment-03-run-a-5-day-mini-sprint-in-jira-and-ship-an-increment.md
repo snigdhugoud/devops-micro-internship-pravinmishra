@@ -213,7 +213,8 @@ Paste your LinkedIn post URL here:
 
 #### LinkedIn Screenshot 1 — Published LinkedIn post showing the post content and at least one required link or proof image
 
-Add your screenshot here.
+<img width="1920" height="942" alt="Screenshot (256)" src="https://github.com/user-attachments/assets/440a75d9-3a65-4ab1-8ab9-2707c30e1150" />
+
 
 ---
 
