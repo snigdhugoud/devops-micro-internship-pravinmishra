@@ -179,7 +179,8 @@ Implement one small UI-only Story from Sprint 1, commit it, deploy it live, and 
 
 #### Screenshot 10 — Jira board showing the Story moved to Done
 
-Add your screenshot here.
+<img width="1920" height="868" alt="Screenshot (269)" src="https://github.com/user-attachments/assets/ff494040-9eaa-43a8-a22d-5b9ec2b4fed4" />
+
 
 ---
 
