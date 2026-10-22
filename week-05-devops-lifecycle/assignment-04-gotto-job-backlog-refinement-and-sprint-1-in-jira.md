@@ -207,7 +207,7 @@ Add a retro comment covering what went well, what to improve, one Scrum pillar o
 
 #### Screenshot 13 — Jira retro comment visible
 
-Add your screenshot here.
+<img width="1723" height="697" alt="Screenshot (274)" src="https://github.com/user-attachments/assets/5c0ab5fe-26ca-4870-9716-245f904a0e90" />
 
 ---
 
