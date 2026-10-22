@@ -223,7 +223,7 @@ Publish a LinkedIn post about what you delivered, including your live URL, three
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://lnkd.in/p/daBi_R3r
 
 ---
 
