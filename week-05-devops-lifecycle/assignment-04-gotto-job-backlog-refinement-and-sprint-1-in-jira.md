@@ -100,7 +100,10 @@ Confirm the Story Points (1, 2, or 3) for each Story and record brief reasoning 
 
 #### Screenshot 6 — Backlog showing Story Points visible, or two or three Stories opened showing their points
 
-Add your screenshot here.
+<img width="1721" height="702" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/59041f29-ef93-422b-bc4d-ca4911867eee" />
+<img width="1817" height="696" alt="Screenshot (264)" src="https://github.com/user-attachments/assets/c7caff94-17c8-477e-b212-eeb3c3a6ea0a" />
+
+
 
 ---
 
