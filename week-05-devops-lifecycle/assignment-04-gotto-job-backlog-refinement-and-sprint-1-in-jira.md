@@ -186,7 +186,8 @@ Implement one small UI-only Story from Sprint 1, commit it, deploy it live, and 
 
 #### Screenshot 11 — Git commit output
 
-Add your screenshot here.
+<img width="1920" height="794" alt="Screenshot (270)" src="https://github.com/user-attachments/assets/5ed0f306-c696-4f90-900e-7090b98412a8" />
+
 
 ---
 
