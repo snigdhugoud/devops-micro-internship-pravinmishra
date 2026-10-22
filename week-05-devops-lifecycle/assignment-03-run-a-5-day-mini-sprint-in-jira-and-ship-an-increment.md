@@ -150,7 +150,8 @@ Replace the existing homepage tagline with the required DMI Website call-to-acti
 
 #### Screenshot 14 — EC2 browser view showing "Start your DevOps Journey here" and the clickable "Visit the DMI Website" link
 
-<img width="1920" height="758" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/6827d64c-3f64-4215-8df9-7f77016e8b6f" />
+<img width="1920" height="696" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/fe11b1ac-afd1-4380-8a03-57e06983b9eb" />
+
 
 
 
@@ -179,7 +180,8 @@ Record a two-to-three-minute demo video of the shipped footer, add a retrospecti
 
 #### Screenshot 17 — Final EC2 browser view showing the complete footer requirement
 
-Add your screenshot here.
+<img width="1920" height="696" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/e7983b53-ffe3-4a39-9b36-3aa6eb79d7cb" />
+
 
 ---
 
