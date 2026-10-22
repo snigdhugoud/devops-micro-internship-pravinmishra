@@ -20,7 +20,8 @@ Choose Team Mode or Solo Mode, and document how each Scrum role (Product Owner, 
 
 #### Screenshot 1 — Jira "Create project" screen, or the project sidebar after creation
 
-Add your screenshot here.
+<img width="1920" height="889" alt="Screenshot (257)" src="https://github.com/user-attachments/assets/2d121d22-1659-4d84-b9f1-90614b63b490" />
+
 
 ---
 
