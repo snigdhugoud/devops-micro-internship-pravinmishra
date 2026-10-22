@@ -111,7 +111,25 @@ Confirm the Story Points (1, 2, or 3) for each Story and record brief reasoning 
 
 For each story, explain in one or two lines why it is a 1, 2, or 3 (mention any debate, even in Solo Mode).
 
-Write your answer here.
+## Task 5 — Planning Poker (Estimate + Debate Notes)
+
+**1. Improve homepage call-to-action visibility — 2 Story Points**  
+The team estimated 2 points because improving the button's visibility and checking its styling requires a small amount of work. In Solo Mode, I considered 1 point but chose 2 because testing is also needed.
+
+**2. Improve website navigation clarity — 2 Story Points**  
+This requires updating navigation links and checking that users can move between pages easily. I considered 1 point, but chose 2 because the links and layout need validation.
+
+**3. Polish footer readability and accessibility — 3 Story Points**  
+This involves improving spacing, contrast, readability, and accessibility, followed by desktop and mobile testing. I considered 2 points, but chose 3 because several areas need attention.
+
+**4. Validate website deployment and availability — 3 Story Points**  
+This requires checking the deployed website, HTTP response, server status, and logs if errors occur. I considered 2 points, but chose 3 because troubleshooting may be needed.
+
+**5. Improve mobile responsive layout — 2 Story Points**  
+This requires adjusting the layout for smaller screens and testing the result in responsive mode. I considered 3 points, but chose 2 because the changes should be limited to the layout.
+
+**6. Verify website links and functionality — 1 Story Point**  
+This is a small task involving checking links and confirming that the main website features work. I considered 2 points, but chose 1 because no major code changes are expected.
 
 ---
 
