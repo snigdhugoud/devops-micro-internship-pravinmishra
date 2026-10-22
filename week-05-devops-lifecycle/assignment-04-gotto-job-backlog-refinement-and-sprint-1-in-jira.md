@@ -164,7 +164,8 @@ Open the Burndown Chart and confirm it exists for Sprint 1. It is acceptable if 
 
 #### Screenshot 9 — Burndown Chart page opened, even if empty
 
-Add your screenshot here.
+<img width="1920" height="875" alt="Screenshot (268)" src="https://github.com/user-attachments/assets/8818375a-605e-4b99-9d25-680962aaea96" />
+
 
 ---
 
