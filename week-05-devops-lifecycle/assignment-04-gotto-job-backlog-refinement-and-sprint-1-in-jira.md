@@ -29,7 +29,13 @@ Choose Team Mode or Solo Mode, and document how each Scrum role (Product Owner, 
 
 Write one line for each role: PO (what you prioritized), SM (how you ensured process), Dev Lead (what you built), DevOps Lead (how you shipped).
 
-Write your answer here.
+**PO (Product Owner):** I prioritized the most important features of the Gotto Job website to meet user needs.
+
+**SM (Scrum Master):** I organized tasks, tracked progress in Jira, and followed the planned workflow.
+
+**Dev Lead (Development Lead):** I worked on building and improving the Gotto Job website using the provided project source code.
+
+**DevOps Lead:** I focused on deploying the website, checking the live version, and verifying that it worked correctly.
 
 ---
 
