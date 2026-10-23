@@ -135,7 +135,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 02 | Agentic AI with Claude Code | ✅ Completed|  ✅ Solved |https://www.linkedin.com/posts/sai-snehitha-goud-a22a49434_dmibypravinmishra-agenticai-claudecode-share-7510721696367022081-PhKz/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3J_noBLo2QsuZ1fas3sl6L8i2 | https://medium.com/@snigdhugoud/reflection-week-2-8d2cb3fcaefd?sharedUserId=snigdhugoud |
 | 03 | Linux & Bash for DevOps | ✅ Completed| ✅ Solved | https://www.linkedin.com/posts/sai-snehitha-goud-a22a49434_devops-linux-bash-share-7513604853882015744-uzW4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3J_noBLo2QsuZ1fas3sl6L8i2eH1Tib40 | https://medium.com/@snigdhugoud/week-3-linux-and-bash-for-devops-reflection-357f2ff29606?sharedUserId=snigdhugoud|
 | 04 | Git & GitHub | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/sai-snehitha-goud-a22a49434_devops-git-github-share-7515700280584380418-04it/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3J_noBLo2QsuZ1fas3sl6L8i2eH1Tib40|https://medium.com/@snigdhugoud/week-4-reflection-git-github-and-ai-assisted-git-safety-fc59d449e461?sharedUserId=snigdhugoud|
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
+| 05 | DevOps Lifecycle & Agile | ✅ Completed |✅ Solved | https://www.linkedin.com/posts/sai-snehitha-goud-a22a49434_devops-claudecode-jira-share-7519353110054547458-fm-x/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3J_noBLo2QsuZ1fas3sl6L8i2eH1Tib40 | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
