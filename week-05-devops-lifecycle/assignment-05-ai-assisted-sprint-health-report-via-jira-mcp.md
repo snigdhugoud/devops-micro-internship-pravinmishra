@@ -41,7 +41,8 @@ Create or update `.mcp.json` at your project root with a Jira MCP server block, 
 
 #### Screenshot 2 — `.mcp.json` open in VS Code showing the Jira server configuration
 
-Add your screenshot here.
+<img width="1420" height="962" alt="Screenshot (279)" src="https://github.com/user-attachments/assets/a223cafe-ed13-4914-a899-4e28fa040e48" />
+
 
 ### Notes You Must Write (Very Important):
 
