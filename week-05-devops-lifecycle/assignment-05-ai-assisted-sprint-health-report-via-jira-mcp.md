@@ -104,7 +104,7 @@ Ask Claude to list the issues in your current active sprint through the Jira MCP
 
 How did you confirm this was real board data and not something Claude guessed?
 
-Add your answer here
+I confirmed that the data was real by using the Jira MCP connection in Claude Code to retrieve issues from my project's active sprint. I checked the issue keys, summaries, statuses, assignees, story points, and priorities against the actual sprint board in my Jira browser. I also compared the issue count and status totals. Since the results matched the live Jira board, I verified that Claude used real board data rather than guessing or generating sample information.
 
 ---
 
