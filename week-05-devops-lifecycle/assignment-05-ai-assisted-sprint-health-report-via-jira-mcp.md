@@ -130,12 +130,11 @@ Create a `/sprint-health` skill restricted to read-only Jira tools plus `Read`, 
 
 1. Which Jira MCP tools does this skill's allowed-tools list include, and which mutating tools (create issue, update issue, transition issue, add comment) does it deliberately exclude?
 
-Add your answer here
+The allowed-tools list includes four read-only Jira MCP tools: mcp__jira__jira_search, mcp__jira__jira_get_issue, mcp__jira__jira_get_sprint, and mcp__jira__jira_get_board, along with the Read tool. It deliberately excludes mutating tools such as create issue, update issue, transition issue, and add comment. This ensures the skill can inspect sprint data and generate a report without changing the Jira board.
 
 2. Why does a Scrum Master need this restriction more than almost any other role in this course?
 
-Add your answer here
-
+A Scrum Master helps the team maintain transparency, inspect progress, and adapt the sprint plan collaboratively. Automatically changing issues, transitioning statuses, or adding comments could interfere with the team's workflow and create inaccurate records. A read-only skill provides evidence-based sprint health information while leaving decisions and actions to the Scrum Master and team.
 ---
 
 # Task 7 — Prove the Skill Never Mutates the Board
