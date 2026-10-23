@@ -154,7 +154,11 @@ Manually update one ticket on your board in the browser (for example, move a sto
 
 Map this assignment to Gather → Analyze → Human Act → Verify from Week 3 Assignment 6. Which step did you perform manually in the browser, and why must that step stay human?
 
-Add your answer here
+The workflow maps to Gather → Analyze → Human Act → Verify as follows:
+1. Gather: Claude Code retrieves live sprint and issue data using Jira MCP read-only tools.
+2. Analyze: The /sprint-health skill analyzes sprint velocity, at-risk stories, missing estimates, and acceptance criteria.
+3. Human Act: I manually updated a Jira Story in the browser by changing its status or adding a story point estimate. This step must remain human because the Scrum Master and team are responsible for making decisions, confirming work is complete, and maintaining accurate Jira records. Automation should provide evidence and recommendations, not make unauthorized changes.
+4. Verify: I ran /sprint-health again and checked whether the report reflected my manual change.
 
 ---
 
