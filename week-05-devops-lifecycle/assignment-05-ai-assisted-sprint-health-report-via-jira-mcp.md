@@ -97,7 +97,8 @@ Ask Claude to list the issues in your current active sprint through the Jira MCP
 
 #### Screenshot 5 — Claude's response showing the live sprint issue list retrieved via Jira MCP
 
-Add your screenshot here.
+<img width="1453" height="488" alt="Screenshot (283)" src="https://github.com/user-attachments/assets/d6f7680e-6f55-4a9a-b310-800050ea8cba" />
+
 
 ### Notes You Must Write (Very Important):
 
