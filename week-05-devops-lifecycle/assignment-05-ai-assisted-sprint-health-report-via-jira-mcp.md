@@ -174,16 +174,16 @@ Your submission must include:
 
 # Completion Checklist
 
-- [ ] Task 1: Jira API token created, value never screenshotted (Screenshot 1)
-- [ ] Task 2: `.mcp.json` has the Jira server block (Screenshot 2)
-- [ ] Task 3: Credentials stored in `settings.local.json`, token blurred, file gitignored (Screenshot 3)
-- [ ] Task 4: `/mcp` shows the Jira server connected (Screenshot 4)
-- [ ] Task 5: Live query returned real sprint data, verified against the browser (Screenshot 5)
-- [ ] Task 6: `/sprint-health` skill created with correct read-only `allowed-tools`, and produced a full report (Screenshots 6–7)
-- [ ] Task 7: A manual board change was reflected in a second `/sprint-health` run (Screenshot 8)
-- [ ] Skill never created, edited, transitioned, or commented on any issue
-- [ ] Reflection answered (Notes)
-- [ ] No API token value exposed
+- [✅] Task 1: Jira API token created, value never screenshotted (Screenshot 1)
+- [✅] Task 2: `.mcp.json` has the Jira server block (Screenshot 2)
+- [✅] Task 3: Credentials stored in `settings.local.json`, token blurred, file gitignored (Screenshot 3)
+- [✅] Task 4: `/mcp` shows the Jira server connected (Screenshot 4)
+- [✅] Task 5: Live query returned real sprint data, verified against the browser (Screenshot 5)
+- [✅] Task 6: `/sprint-health` skill created with correct read-only `allowed-tools`, and produced a full report (Screenshots 6–7)
+- [✅] Task 7: A manual board change was reflected in a second `/sprint-health` run (Screenshot 8)
+- [✅] Skill never created, edited, transitioned, or commented on any issue
+- [✅] Reflection answered (Notes)
+- [✅] No API token value exposed
 
 ---
 
