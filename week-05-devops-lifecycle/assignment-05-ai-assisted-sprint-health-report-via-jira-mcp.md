@@ -147,7 +147,8 @@ Manually update one ticket on your board in the browser (for example, move a sto
 
 #### Screenshot 8 — Second `/sprint-health` run showing the report now reflects your manual board change
 
-Add your screenshot here.
+<img width="1357" height="962" alt="Screenshot (286)" src="https://github.com/user-attachments/assets/6f994c22-400c-47cf-916d-323dd7205c58" />
+
 
 ### Notes You Must Write (Very Important):
 
